@@ -91,7 +91,7 @@ const loadTrendingMovies = async () => {
       <div className="pattern" />
       <div className="wrapper">
         <header>
-          <img src="src/assets/hero.png"/>
+          
           <h1>
             Find <span className="text-gradient">Movies</span> You'll Enjoy
             Without Stress
